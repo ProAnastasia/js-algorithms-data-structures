@@ -3,7 +3,7 @@
  * Returns position of the required element.
  */
 
-const binary_search = (list, item) => {
+const binarySearch = (list, item) => {
   let lowest = 0;
   let highest = list.length - 1;
   let middle, guess;
