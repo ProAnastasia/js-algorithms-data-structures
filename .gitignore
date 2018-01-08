@@ -1,0 +1,8 @@
+#ignore thumbnails created by windows
+Thumbs.db
+
+#ignore JetBrains IDE files
+.idea
+
+#ignore node modules
+node_modules
